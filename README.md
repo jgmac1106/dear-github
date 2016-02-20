@@ -59,3 +59,36 @@ Issues haven't gotten much attention from GitHub these past few years and that w
 We'll be in touch next week. Sorry it's taken so long, and thank you for everything.
 
 —GitHub
+===
+**Dear GitHub Users**
+You give so much to the world through open source development. Please do not get frustrated as the discourses used in issues shift. As more and non-developess turn to or are steered toward GitHub new ways of acting, talking and being will also emerge.
+
+Many organizations, fields, and people have seen what GitHub has to offer. They may align will the values of the open source development community but they do not speak language. Now that users can add and upload files from the web interface this expansion will only continue to grow. The social nature of issues will involve. In fact they will become much more social. 
+
+I use discourses here in the use commonly associated with James Paul Gee's Big Discourse theory. Which basically boils down to, "You wouldn't ask for a lighter the same way in a biker bar as you would a posh cigar bar in Cambridge." Using different literacy practices could get you punched in the face in this example. In many ways developers can be the bikers or the cigar bar patrons, you have very specialized ways of writing and talking that signify your membership in the clan.
+
+I see an unavoidable increase in the [three concerns](https://github.com/dear-github/dear-github) you bring up as non-developers will be onboarded to GitHub. In the first example I see the foundations of the "first bug" approach to onboarding new open source developers. An "open bug" approach will not work for the not-for-profit or educationOER crowd that has started to turn to git. We are going to blog through issues, discuss long term planning, have debates, and possbily strat chain letters by forking someone else's letter repo.
+
+In terms of emojis and plus ones....This is only the beginning. Issues will become the social stream of GitHub as more non-developers become onboarded. Emojis are baked into GitHub flavored Markdown. Luckily most non-techincal people haven't heard of markdown so you are safe for a bit, but a flood is coming. Only to be outdown by the tidal wave of impending GIFS that will fill issues.
+
+In your final request you call users out for not adhering to to the Contribution.md file. New users have no idea what you are talking about here. So your idea is a good one. Most non-techincal folks will have no idea what a pull-request is without serious onboarding so it won't be as big an issue with us folks. Still the idea of getting some kind of automatic file opening with instructions( and dare I say a tutorial) would help.
+
+To think about your three concerns and non-technical contributors lets think about "the first bug" Developers have the mindset that the "first bug" is the way to increase participation. That is how developers think. It has worked in the open source community for sometime. Someone will come to your repo, look at the issues, and maybe choose something labeled "first bug." Yet for the non-technical contributoprs they will need to be **brought** to a repo. Their **first bug** will be connected to whatever passion brought them to a project.
+
+They will begin by filing issues full of questions and emojis, they will hijack threads, and file new issues about minor complaionts of what isn't working. It essence it is up to mantainers of repos to model and mentor the specific ways you want issues to be used. This is more of a human issue rather than a tool issue. 
+
+Yes  some discourses of developers will be taken up as different communities merge. Yet other new and unforseen affordances of "issues" will be created and unearthed as we all join the branch.  To illustate I already see issues evolving as a non-technical contributor to Mozilla. People have tried to keep GitHub reserved for technical issus such as grammar and code. Then topical discussions are supposed to happen somewhere else. The conversation gets split and contributors get lost.
+
+What has evolved in our use case is a two platform soultion where discussion happens one place and work happens on GitHub. 
+What I believe will happen is the continued forking of how you think issues should be used. New users are going to figure out new hacks and work arounds. 
+
+Furthermore different discourses are emerging naturally depending on who mantains the Mozilla repos. Adherence to issues as a "bug ticket" is naturally more prevalent on the Mozilla Corporation side (the technical half) and the Mozilla Foundation side (the thinking half). Yet each repo develops its own identity. Please do not advocate for a technical solution that tries force specific discourses on different grups.
+
+
+So for the GitHub team I ask you to think strategically about the evolution of issues to account for both the "discussion" and the "work" of open source development. I think you need to think carefully for the increase in non technical users turing to GitHub. Thos of us without coding skills strengthen open source projects. GitHub mauy become a repo of Open Education Resources. Plan accordingly.
+
+For project managers and repo mantainers I ask that you plan more than a Contribution.md file. Think about how non technical users can help your project. Develop strategies to recruit and onbaord to GitHub (kudos for eliminating command line). Most of all don't freak when we +1 and emojify your issue. Instead work with us and explain how your ways of writing, reading, and being work in the repo.
+
+
+
+
