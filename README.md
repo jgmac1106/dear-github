@@ -61,11 +61,11 @@ We'll be in touch next week. Sorry it's taken so long, and thank you for everyth
 —GitHub
 ===
 **Dear GitHub Users**
-You give so much to the world through open source development. Please do not get frustrated as the discourses used in issues shift. As more and non-developess turn to or are steered toward GitHub new ways of acting, talking and being will also emerge.
+You give so much to the world through open source development. Please do not get frustrated as the discourses used in issues shift. As more and more  non-developers turn to, or are steered toward, GitHub new ways of acting, talking, and being will also emerge.
 
-Many organizations, fields, and people have seen what GitHub has to offer. They may align will the values of the open source development community but they do not speak language. Now that users can add and upload files from the web interface this expansion will only continue to grow. The social nature of issues will involve. In fact they will become much more social. 
+Many organizations, fields, and people have seen what GitHub has to offer. They  align with the values of the open source development community but they do not speak language. Now that users can add and upload files from the web interface this expansion will only continue to grow. The social nature of issues will involve. In fact they will become much more social. 
 
-I use discourses here in the use commonly associated with James Paul Gee's Big Discourse theory. Which basically boils down to, "You wouldn't ask for a lighter the same way in a biker bar as you would a posh cigar bar in Cambridge." Using different literacy practices could get you punched in the face in this example. In many ways developers can be the bikers or the cigar bar patrons, you have very specialized ways of writing and talking that signify your membership in the clan.
+> I use discourses here in the use commonly associated with James Paul Gee's Big Discourse theory. Which basically boils down to, "You wouldn't ask for a lighter the same way in a biker bar as you would a posh cigar bar in Cambridge." Using different literacy practices could get you punched in the face in this example. In many ways developers can be the bikers or the cigar bar patrons, you have very specialized ways of writing and talking that signify your membership in the clan.
 
 I see an unavoidable increase in the [three concerns](https://github.com/dear-github/dear-github) you bring up as non-developers will be onboarded to GitHub. In the first example I see the foundations of the "first bug" approach to onboarding new open source developers. An "open bug" approach will not work for the not-for-profit or educationOER crowd that has started to turn to git. We are going to blog through issues, discuss long term planning, have debates, and possbily strat chain letters by forking someone else's letter repo.
 
