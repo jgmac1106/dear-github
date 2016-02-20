@@ -87,7 +87,7 @@ Furthermore different discourses are emerging naturally depending on who mantain
 
 So for the GitHub team I ask you to think strategically about the evolution of issues to account for both the "discussion" and the "work" of open source development. I think you need to consider the increase in non technical users turing to GitHub. Those of us without coding skills strengthen open source projects. GitHub may become a repo of Open Education Resources. Plan accordingly.
 
-For project managers and repo mantainers I ask that you plan more than a Contribution.md file. Think about how non technical users can help your project. Develop strategies to recruit and onboarrd to GitHub (kudos for eliminating command line). Most of all don't freak when we +1 and emojify your issue. Instead work with us and explain how your ways of writing, reading, and being work in the repo.
+For project managers and repo mantainers I ask that you plan more than a Contribution.md file. Think about how non technical users can help your project. Develop strategies to recruit and onboarrd to GitHub (kudos for eliminating command line for adding files). Most of all don't freak when we +1 and emojify your issue. Instead work with us and explain how your ways of writing, reading, and being work in the repo.
 
 
 
